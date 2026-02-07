@@ -14,16 +14,14 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
-## 🧠 Skills Practiced
-- SQL queries
-- Aggregate functions
-- Interview-based problem solving
-
-
-
-
 
 ### 2️⃣ Department-wise Total Salary (HAVING clause)
 - **File:** `department_wise_total_salary.sql`
 - **Problem:** Find departments where total salary is more than 100000.
 - **Concepts:** GROUP BY, SUM(), HAVING
+
+
+### 3️⃣ Highest Salary in Each Department
+- **File:** `highest_salary_each_department.sql`
+- **Problem:** Find the highest salary in each department.
+- **Concepts:** GROUP BY, MAX()

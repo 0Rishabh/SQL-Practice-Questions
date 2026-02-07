@@ -42,3 +42,13 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** Subquery, MAX()
 
 ---
+
+
+
+### 5️⃣ Highest Salary Employee in Each Department
+- **File:** `highest_salary_employee_each_department.sql`
+- **Problem:** Find the employee(s) with the highest salary in each department.
+- **Concepts:** CTE, JOIN, GROUP BY, MAX()
+
+
+---

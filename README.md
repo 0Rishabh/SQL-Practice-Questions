@@ -52,3 +52,13 @@ Each question is written in a separate SQL file for clarity.
 
 
 ---
+
+
+
+### 6️⃣ Second Highest Salary Employee
+- **File:** `second_highest_salary_employee.sql`
+- **Problem:** Find the employee(s) who earn the second highest salary.
+- **Concepts:** Subquery, DISTINCT, ORDER BY, LIMIT
+
+
+---

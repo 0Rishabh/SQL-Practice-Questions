@@ -62,3 +62,10 @@ Each question is written in a separate SQL file for clarity.
 
 
 ---
+
+### 7️⃣ Employee Salary with Department Name
+- **File:** `employee_salary_with_department.sql`
+- **Problem:** Find employee name, salary, and department name.
+- **Concepts:** JOIN, FOREIGN KEY
+
+---

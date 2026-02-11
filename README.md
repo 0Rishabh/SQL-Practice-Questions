@@ -69,3 +69,12 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** JOIN, FOREIGN KEY
 
 ---
+
+
+### 8️⃣ Employees from IT Department
+- **File:** `employees_from_it_department.sql`
+- **Problem:** Find all employees whose department is IT.
+- **Concepts:** JOIN, WHERE clause
+
+
+---

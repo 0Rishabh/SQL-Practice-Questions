@@ -84,3 +84,14 @@ Each question is written in a separate SQL file for clarity.
 - **File:** `all_departments_with_employees.sql`
 - **Problem:** Show all departments and their employee names, including departments with no employees.
 - **Concepts:** LEFT JOIN
+
+---
+
+
+### 🔟 Departments with No Employees
+- **File:** `departments_with_no_employees.sql`
+- **Problem:** Find departments that do not have any employees.
+- **Concepts:** LEFT JOIN, NULL check
+
+
+---

@@ -78,3 +78,9 @@ Each question is written in a separate SQL file for clarity.
 
 
 ---
+
+
+### 9️⃣ All Departments with Employees (LEFT JOIN)
+- **File:** `all_departments_with_employees.sql`
+- **Problem:** Show all departments and their employee names, including departments with no employees.
+- **Concepts:** LEFT JOIN

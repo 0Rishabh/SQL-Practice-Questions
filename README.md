@@ -113,3 +113,11 @@ Each question is written in a separate SQL file for clarity.
 
 
 ---
+
+
+### 1️⃣3️⃣ Employees Above Average Salary
+- **File:** `employees_above_average_salary.sql`
+- **Problem:** Find employees who earn more than the company’s average salary.
+- **Concepts:** Subquery, AVG, JOIN
+
+---

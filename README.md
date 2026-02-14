@@ -95,3 +95,12 @@ Each question is written in a separate SQL file for clarity.
 
 
 ---
+
+
+### 1️⃣1️⃣ Employee Count per Department
+- **File:** `employee_count_per_department.sql`
+- **Problem:** Find the number of employees in each department.
+- **Concepts:** JOIN, GROUP BY, COUNT
+
+
+---

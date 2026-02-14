@@ -104,3 +104,12 @@ Each question is written in a separate SQL file for clarity.
 
 
 ---
+
+
+### 1️⃣2️⃣ Department with Highest Employees
+- **File:** `department_with_max_employees.sql`
+- **Problem:** Find the department having the highest number of employees.
+- **Concepts:** JOIN, GROUP BY, COUNT, ORDER BY
+
+
+---

@@ -121,3 +121,63 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** Subquery, AVG, JOIN
 
 ---
+
+
+### 1️⃣4️⃣ Employees, Departments, and Projects
+- **File:** `employees_departments_projects.sql`
+- **Problem:** Show employee name, department name, and project name.
+- **Concepts:** Multiple JOINs, Foreign Keys
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

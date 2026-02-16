@@ -131,10 +131,13 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 1️⃣5️⃣ Employees in Departments with Multiple Projects
+- **File:** `employees_in_departments_with_multiple_projects.sql`
+- **Problem:** Find employees working in departments that have more than one project.
+- **Concepts:** Subquery, GROUP BY, HAVING
 
 
-
-
+---
 
 
 

@@ -139,8 +139,13 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 1️⃣6️⃣ Departments with Average Salary Above 55,000
+- **File:** `department_avg_salary_above_55000.sql`
+- **Problem:** Find department-wise average salary and display only those departments where average salary is greater than 55,000.
+- **Concepts:** GROUP BY, HAVING, AVG
 
 
+---
 
 
 

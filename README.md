@@ -147,8 +147,12 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 1️⃣7️⃣ Employees Above 50,000 with Department
+- **File:** `employees_above_50000_with_department.sql`
+- **Problem:** Show employee name and department name for employees earning more than 50,000.
+- **Concepts:** JOIN, WHERE
 
-
+---
 
 
 

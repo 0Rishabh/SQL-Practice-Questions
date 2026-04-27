@@ -154,8 +154,12 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 1️⃣8️⃣ Departments with Total Salary Above 1,50,000
+- **File:** `department_total_salary_above_150000.sql`
+- **Problem:** Show department name and total salary where total salary is greater than 1,50,000.
+- **Concepts:** CTE, GROUP BY, HAVING, SUM, JOIN
 
-
+---
 
 
 

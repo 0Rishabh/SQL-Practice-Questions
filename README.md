@@ -162,8 +162,12 @@ Each question is written in a separate SQL file for clarity.
 ---
 
 
+### 1️⃣9️⃣ Employees with Highest Salary
+- **File:** `employees_with_highest_salary.sql`
+- **Problem:** Find employee(s) who have the highest salary in the company.
+- **Concepts:** Subquery, MAX
 
-
+---
 
 
 

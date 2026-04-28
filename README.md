@@ -169,6 +169,10 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 2️⃣0️⃣ Top 2 Highest Salary per Department
+- **File:** `top_2_highest_salary_per_department.sql`
+- **Problem:** Find top 2 highest salary employees in each department.
+- **Concepts:** CTE, Window Function, DENSE_RANK
 
 
 

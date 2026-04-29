@@ -175,9 +175,15 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** CTE, Window Function, DENSE_RANK
 
 
+---
+
+### 2️⃣1️⃣ Employees Above Department Average Salary
+- **File:** `employees_above_department_avg_salary.sql`
+- **Problem:** Find employees whose salary is higher than the average salary of their own department.
+- **Concepts:** CTE, Window Function, AVG
 
 
-
+---
 
 
 

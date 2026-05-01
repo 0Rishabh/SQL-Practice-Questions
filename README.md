@@ -194,9 +194,12 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 2️⃣3️⃣ Second Highest Salary Employees
+- **File:** `second_highest_salary_employees.sql`
+- **Problem:** Find the second highest salary in the company and show all employees having that salary.
+- **Concepts:** Subquery, ORDER BY, LIMIT, Window Function, DENSE_RANK
 
-
-
+---
 
 
 

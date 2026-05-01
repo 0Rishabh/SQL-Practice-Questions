@@ -186,9 +186,13 @@ Each question is written in a separate SQL file for clarity.
 ---
 
 
+### 2️⃣2️⃣ Department with Highest Total Salary
+- **File:** `department_with_highest_total_salary.sql`
+- **Problem:** Find the department with the highest total salary. If multiple departments have the same highest total, display all.
+- **Concepts:** CTE, GROUP BY, SUM, Window Function, RANK
 
 
-
+---
 
 
 

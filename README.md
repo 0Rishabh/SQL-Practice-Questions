@@ -201,8 +201,12 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 2️⃣4️⃣ Employees Earning More Than Their Manager
+- **File:** `employees_earning_more_than_manager.sql`
+- **Problem:** Find employees whose salary is greater than their manager’s salary.
+- **Concepts:** Self Join, Comparison
 
-
+---
 
 
 

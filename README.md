@@ -209,9 +209,12 @@ Each question is written in a separate SQL file for clarity.
 ---
 
 
+### 2️⃣5️⃣ Sales Greater Than Previous Day
+- **File:** `sales_increasing_over_previous_day.sql`
+- **Problem:** Return dates where the sales amount is greater than the previous day.
+- **Concepts:** Window Function, LAG
 
-
-
+---
 
 
 

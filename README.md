@@ -216,10 +216,13 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 2️⃣6️⃣ Products Never Ordered
+- **File:** `products_never_ordered.sql`
+- **Problem:** Find products that were never ordered.
+- **Concepts:** NOT EXISTS, Subquery
 
 
-
-
+---
 
 
 

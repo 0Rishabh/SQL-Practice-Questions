@@ -224,7 +224,10 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 2️⃣7️⃣ Top Scoring Subject per Student
+- **File:** `top_scoring_subject_per_student.sql`
+- **Problem:** Find the subject with highest marks for each student.
+- **Concepts:** Window Function, RANK
 
 
-
-
+---

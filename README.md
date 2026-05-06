@@ -231,3 +231,13 @@ Each question is written in a separate SQL file for clarity.
 
 
 ---
+
+
+### 2️⃣8️⃣ Employees Above Department Average (Correlated Subquery) and  (not window function)
+- **File:** `employees_above_department_avg_correlated.sql`
+- **Problem:** Find employees earning more than their department’s average salary using correlated subquery.
+- **Concepts:** Correlated Subquery, AVG
+
+
+---
+

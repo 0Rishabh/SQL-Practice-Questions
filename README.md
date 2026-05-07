@@ -241,3 +241,30 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 2️⃣9️⃣ Customers Who Purchased All Products
+- **File:** `customers_purchased_all_products.sql`
+- **Problem:** Find customers who purchased all available products.
+- **Concepts:** GROUP BY, HAVING, COUNT DISTINCT, Subquery
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

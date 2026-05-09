@@ -247,7 +247,10 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** GROUP BY, HAVING, COUNT DISTINCT, Subquery
 
 ---
-
+### 3️⃣0️⃣ Mutual Friendships
+- **File:** `mutual_friendships.sql`
+- **Problem:** Find mutual friendship pairs and avoid duplicate pairs.
+- **Concepts:** Self Join, 👉 Avoid duplicate pairs like: -- (1,2) -- (2,1)
 
 
 

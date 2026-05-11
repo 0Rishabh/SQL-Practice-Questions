@@ -233,7 +233,7 @@ Each question is written in a separate SQL file for clarity.
 ---
 
 
-### 3️⃣1️⃣ Department Projects with Existing Employees
+### 2️⃣8️⃣ Department Projects with Existing Employees
 - **File:** `department_projects_with_existing_employees.sql`
 - **Problem:** Find department name and total number of projects only for departments having at least one employee.
 - **Concepts:** JOIN, GROUP BY, COUNT DISTINCT
@@ -244,7 +244,7 @@ Each question is written in a separate SQL file for clarity.
 
 
 
-### 2️⃣8️⃣ Employees Above Department Average (Correlated Subquery) and  (not window function)
+### 2️⃣9️⃣ Employees Above Department Average (Correlated Subquery) and  (not window function)
 - **File:** `employees_above_department_avg_correlated.sql`
 - **Problem:** Find employees earning more than their department’s average salary using correlated subquery.
 - **Concepts:** Correlated Subquery, AVG
@@ -252,20 +252,25 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
-### 2️⃣9️⃣ Customers Who Purchased All Products
+### 3️⃣0️⃣Customers Who Purchased All Products
 - **File:** `customers_purchased_all_products.sql`
 - **Problem:** Find customers who purchased all available products.
 - **Concepts:** GROUP BY, HAVING, COUNT DISTINCT, Subquery
 
 ---
-### 3️⃣0️⃣ Mutual Friendships
+### 3️⃣1️⃣ Mutual Friendships
 - **File:** `mutual_friendships.sql`
 - **Problem:** Find mutual friendship pairs and avoid duplicate pairs.
 - **Concepts:** Self Join, 👉 Avoid duplicate pairs like: -- (1,2) -- (2,1)
 
 
+---
+### 3️⃣2️⃣ Employees Not Assigned to Projects
+- **File:** `employees_not_assigned_to_projects.sql`
+- **Problem:** Find employees whose departments do not have any projects assigned.
+- **Concepts:** LEFT JOIN, NULL Check
 
-
+---
 
 
 

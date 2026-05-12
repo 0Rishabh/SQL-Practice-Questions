@@ -273,10 +273,13 @@ Each question is written in a separate SQL file for clarity.
 ---
 
 
+### 3️⃣3️⃣ Projects with Multiple Department Employees
+- **File:** `projects_with_multiple_department_employees.sql`
+- **Problem:** Find project names where more than one employee belongs to the project’s department.
+- **Concepts:** JOIN, GROUP BY, HAVING
 
 
-
-
+---
 
 
 

@@ -281,11 +281,13 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 3️⃣4️⃣ Employees with Continuous Monthly Salary Increase
+- **File:** `employees_salary_increased_every_month.sql`
+- **Problem:** Find employees whose salary increased continuously every month.
+- **Concepts:** CTE, Window Function, LAG, CASE, GROUP BY
 
 
-
-
-
+---
 
 
 

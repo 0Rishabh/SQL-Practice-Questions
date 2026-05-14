@@ -289,6 +289,9 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 3️⃣5️⃣ Customer Balance from Transactions
+- **File:** `customer_balance_from_transactions.sql`
+- **Problem:** Calculate customer balance where credit adds money and debit subtracts money.
+- **Concepts:** CASE, SUM, GROUP BY
 
-
-
+---

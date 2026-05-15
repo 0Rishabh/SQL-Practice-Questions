@@ -295,3 +295,9 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** CASE, SUM, GROUP BY
 
 ---
+### 3️⃣6️⃣ Top 2 Selling Products per Category
+- **File:** `top_2_selling_products_per_category.sql`
+- **Problem:** Find top 2 selling products in each category and include ties.
+- **Concepts:** Window Function, DENSE_RANK, PARTITION BY
+
+---

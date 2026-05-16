@@ -301,3 +301,10 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** Window Function, DENSE_RANK, PARTITION BY
 
 ---
+
+### 3️⃣7️⃣ Customers with No Orders
+- **File:** `customers_with_no_orders.sql`
+- **Problem:** Find customers who have never placed any order.
+- **Concepts:** LEFT JOIN, NULL Check
+
+---

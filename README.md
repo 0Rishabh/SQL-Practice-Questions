@@ -308,3 +308,10 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** LEFT JOIN, NULL Check
 
 ---
+
+### 3️⃣8️⃣ Employees in Same Department as Rahul
+- **File:** `employees_same_department_as_rahul.sql`
+- **Problem:** Find employees working in the same department as Rahul without hardcoding department id.
+- **Concepts:** Subquery, JOIN, Filtering
+
+---

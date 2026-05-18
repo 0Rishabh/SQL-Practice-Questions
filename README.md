@@ -315,3 +315,10 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** Subquery, JOIN, Filtering
 
 ---
+
+### 3️⃣9️⃣ Departments Above Company Average Salary
+- **File:** `departments_above_company_average_salary.sql`
+- **Problem:** Find departments whose average employee salary is greater than the company average salary.
+- **Concepts:** JOIN, GROUP BY, HAVING, Subquery, AVG
+
+---

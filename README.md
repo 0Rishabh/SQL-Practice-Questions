@@ -322,3 +322,10 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** JOIN, GROUP BY, HAVING, Subquery, AVG
 
 ---
+
+### 4️⃣0️⃣ Employee Salary Category
+- **File:** `employee_salary_category.sql`
+- **Problem:** Create a salary category column based on salary ranges.
+- **Concepts:** CASE Statement, Conditional Logic
+
+---

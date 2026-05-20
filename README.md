@@ -329,3 +329,10 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** CASE Statement, Conditional Logic
 
 ---
+
+### 4️⃣1️⃣ Employee Bonus by Department
+- **File:** `employee_bonus_by_department.sql`
+- **Problem:** Create a bonus column based on employee department rules.
+- **Concepts:** CASE WHEN, Conditional Logic
+
+---

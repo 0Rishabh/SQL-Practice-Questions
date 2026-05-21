@@ -336,3 +336,10 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** CASE WHEN, Conditional Logic
 
 ---
+
+### 4️⃣2️⃣ Employee Experience Level
+- **File:** `employee_experience_level.sql`
+- **Problem:** Create an experience level column based on employee id ranges.
+- **Concepts:** CASE WHEN, Conditional Logic
+
+---

@@ -343,3 +343,10 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** CASE WHEN, Conditional Logic
 
 ---
+
+### 4️⃣3️⃣ Salary Rank Within Department
+- **File:** `salary_rank_within_department.sql`
+- **Problem:** Show employee salary rank within each department.
+- **Concepts:** Window Function, RANK, PARTITION BY
+
+---

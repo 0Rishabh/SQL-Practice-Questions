@@ -350,3 +350,11 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** Window Function, RANK, PARTITION BY
 
 ---
+
+
+### 4️⃣4️⃣ Dense Salary Rank Within Department
+- **File:** `dense_salary_rank_within_department.sql`
+- **Problem:** Show dense salary rank of employees within each department.
+- **Concepts:** Window Function, DENSE_RANK, PARTITION BY
+
+---

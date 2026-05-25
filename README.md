@@ -358,3 +358,5 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** Window Function, DENSE_RANK, PARTITION BY
 
 ---
+
+

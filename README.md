@@ -359,4 +359,9 @@ Each question is written in a separate SQL file for clarity.
 
 ---
 
+### 4️⃣5️⃣ Product with Highest Total Sales
+- **File:** `highest_total_sales_product.sql`
+- **Problem:** Find product(s) whose total sales amount is highest and include ties.
+- **Concepts:** CTE, GROUP BY, SUM, Subquery, MAX
+---
 

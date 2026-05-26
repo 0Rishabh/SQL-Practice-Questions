@@ -365,3 +365,8 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** CTE, GROUP BY, SUM, Subquery, MAX
 ---
 
+### 4️⃣6️⃣ Running Total Salary by Department
+- **File:** `running_total_salary_by_department.sql`
+- **Problem:** Calculate running total salary within each department.
+- **Concepts:** Window Function, SUM OVER, PARTITION BY, ORDER BY
+---

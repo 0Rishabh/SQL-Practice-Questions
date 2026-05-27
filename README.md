@@ -370,3 +370,10 @@ Each question is written in a separate SQL file for clarity.
 - **Problem:** Calculate running total salary within each department.
 - **Concepts:** Window Function, SUM OVER, PARTITION BY, ORDER BY
 ---
+
+### 4️⃣7️⃣ Row Number Within Department
+- **File:** `row_number_within_department.sql`
+- **Problem:** Show unique row number within each department ordered by salary descending.
+- **Concepts:** Window Function, ROW_NUMBER, PARTITION BY, ORDER BY
+
+---

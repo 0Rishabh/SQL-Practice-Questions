@@ -377,3 +377,9 @@ Each question is written in a separate SQL file for clarity.
 - **Concepts:** Window Function, ROW_NUMBER, PARTITION BY, ORDER BY
 
 ---
+### 4️⃣8️⃣ Employee Salary Groups using NTILE
+- **File:** `employees_salary_groups_ntile.sql`
+- **Problem:** Divide employees into 3 salary groups across the company.
+- **Concepts:** Window Function, NTILE, ORDER BY
+
+---
